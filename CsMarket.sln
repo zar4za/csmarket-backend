@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsMarket", "CsMarket.csproj", "{E31B3779-B269-4DCF-AE92-3274E37EBD7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31B3779-B269-4DCF-AE92-3274E37EBD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31B3779-B269-4DCF-AE92-3274E37EBD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31B3779-B269-4DCF-AE92-3274E37EBD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31B3779-B269-4DCF-AE92-3274E37EBD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C1DE40-D620-419A-BED4-F8010E555332}
+	EndGlobalSection
+EndGlobal
